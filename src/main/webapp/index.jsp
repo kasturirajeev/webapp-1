@@ -8,7 +8,7 @@
 <body>
   <div class="jumbotron" style="background-color:white">
      <h1 class="text-center">Welcome to</h1>
-      <img src="http://www.learntek.org/wp-content/uploads/2017/08/0_IUD7ZwiBIs7TDELA.png" alt="Spidertocat"
+      <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center" style="font-size:30px;background-color:#FF0000">Now you are with Rajeev</h1>
       <title>The Jenkins build had the typical Maven build steps:</title>
