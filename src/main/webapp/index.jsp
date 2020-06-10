@@ -10,9 +10,8 @@
      <h1 class="text-center">Welcome to</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h1 class="text-center" style="font-size:30px;background-color:#FF0000">My job is done with jenkins</h1>
-      <h2 class="text-center">Now you are with Rajeev</h2>
-      <h3 class="text-center" style="font-size:30px;background-color:#FF0000">DevOps Build and Automation deployment of war file into Tomcat Server Using Jenkins</h3>
+      <h1 class="text-center" style="font-size:30px;background-color:#FF0000">Now you are with Rajeev</h1>
+      <h2 class="text-center" style="font-size:30px;background-color:#FF0000">DevOps Build and Automation deployment of war file into Tomcat Server Using Jenkins</h2>
   </div>
 </body>
 </html>
