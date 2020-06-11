@@ -10,8 +10,8 @@
      <h1 class="text-center">Welcome to</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-     <h1 class="text-center" style="font-size:30px;background-color:#FF0000">Now you are with Rajeev</h1>
-     <h2 class="text-center" style="font-size:30px;background-color:#FF0000">DevOps Build and Automation deployment of war file into Tomcat Server Using Jenkins</h2>
+     <h1 class="text-center">Now you are with Rajeev</h1>
+     <h2 class="text-center">DevOps Build and Automation deployment of war file into Tomcat Server Using Jenkins</h2>
      <p class="text-center" style="font-size:30px;background-color:#FF0000">Source Code Management with a checkout from Git.</p>
      <p class="text-center" style="font-size:30px;background-color:#FF0000">A build trigger, which is triggered automatically from Git.</p>
      <p class="text-center" style="font-size:30px;background-color:#FF0000">Maven build with the usual pom.xml and goals.</p>
